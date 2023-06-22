@@ -1,0 +1,22 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build-watch": "vite build --watch",
+    "preview": "vite preview",
+    "start": "npm run build && start http://localhost:3000 && nodemon node ./server.js"
+  },
+  "devDependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "sass": "^1.63.4",
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  }
+}
