@@ -1,7 +1,7 @@
 # Чат
 
 * Макет интрефейса: опубликова в папке UI
-* Опубликованное в Netlify приложение: [https://frosty-poincare-ded0e8.netlify.app](https://frosty-poincare-ded0e8.netlify.app)
+* Опубликованное в Netlify приложение: 
 
 ## Что это?
 
